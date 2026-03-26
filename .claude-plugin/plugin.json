@@ -1,0 +1,27 @@
+{
+  "name": "openclaw-setup",
+  "description": "Guide anyone through setting up a self-hosted AI agent on their own server. Covers VPS provisioning, SSH, kernel-level security via nono, OpenClaw installation, messaging channel connection (Telegram, WhatsApp, email, Slack), and first agent deployment.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Simon Bergeron",
+    "email": "simon@lemonbrand.io",
+    "url": "https://lemonbrand.io"
+  },
+  "homepage": "https://github.com/lemonbrand/openclaw-setup-plugin",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lemonbrand/openclaw-setup-plugin"
+  },
+  "license": "MIT",
+  "keywords": [
+    "openclaw",
+    "vps",
+    "agent",
+    "self-hosted",
+    "telegram",
+    "whatsapp",
+    "nono",
+    "security",
+    "sandbox"
+  ]
+}
