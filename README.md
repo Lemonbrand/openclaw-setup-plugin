@@ -2,6 +2,8 @@
 
 A Claude Code plugin that guides anyone (including complete beginners) through setting up a self-hosted AI agent on their own server.
 
+![Openclaw-setup image](ralph-loop_diagram.html.png)
+
 ## What it builds
 
 A personal AI assistant that:
